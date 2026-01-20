@@ -33,7 +33,7 @@ git checkout -b feature/demo-change
 git checkout -b main
 
 # Merge feature branch into main
-git merge copilot/make-change-and-merge
+git merge feature/demo-change
 
 # Push changes
 # (via report_progress tool)
